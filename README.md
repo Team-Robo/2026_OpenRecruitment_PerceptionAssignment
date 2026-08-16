@@ -5,7 +5,7 @@ This is a ROS 2 On-Demand Edge YOLO Detection starter kit.
 
 **TL;DR for assignment:**
 
-1. Pick one language track: Complete the provided **Python** skeleton, OR rewrite the node entirely in **C++** (highly encouraged for lower latency).
+1. Pick one language track: Complete the provided **Python** skeleton, OR rewrite the node entirely in **C++** (highly encouraged for lower latency to score well in assignment).
 2. Pick your engine: A base `yolov8n.pt` is provided, but you are free to swap the model for optimization.
 3. Write the logic: Implement a ROS 2 Service that reads a single image and publishes the bounding boxes *only* when triggered.
 4. Submit your code + an `README.md`** ([See Section 6](#6-what-to-submit)). 

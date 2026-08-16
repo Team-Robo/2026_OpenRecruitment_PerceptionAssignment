@@ -67,7 +67,7 @@ Clone this repository into your ROS 2 Workspace (Humble or Jazzy) and build it:
 
 ```bash
 cd ~/ros2_ws/src
-git clone git@github.com:Team-Robo/perception_assignment.git
+git clone git@github.com:Team-Robo/2026_OpenRecruitment_PerceptionAssignment.git
 cd ~/ros2_ws
 
 # Install ROS dependencies (Make sure you have vision_msgs installed)
